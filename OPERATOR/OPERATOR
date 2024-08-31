@@ -1,0 +1,46 @@
+//modulo operator
+var x=52,y=10;
+x =x%y;
+x
+
+//exponential operator
+var a = 10 ,b=2;
+a =a**b;
+a
+//left right bitwise
+
+//comparison operator
+//equal
+var x=3==3;
+x
+
+var y =5 ===5;
+y
+
+
+//strict equal
+var y =5 ==='5';
+y
+
+//not equal
+var x= 3!='3';
+x
+
+//greater than ,equal to
+//INCREMENT AND DECREMENT op
+var x =7;
+x++;
+x
+//true as 1 and false as 0
+var x =true;
+x= +x;
+x
+
+var y =false;
+y=+y;
+y
+
+//concatination
+var x="namaste",y="world";
+x=x+y;
+x
