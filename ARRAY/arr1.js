@@ -37,3 +37,10 @@ console.log(subj);
 subj[1]= "Bootstrap";
 console.log(subj);
 
+// Add Element to the end of Array
+subj.push("Node.js");
+
+// Add Element to the beginning
+subj.unshift("Web Development");
+
+console.log(subj);
