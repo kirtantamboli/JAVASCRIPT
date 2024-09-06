@@ -59,5 +59,9 @@ function Course(){
 }
 const course = new Course('javascript');
 delete course.title;//deleting obj
-course 
+course.checkenrollment = function(){
+    console.log('30 users are enrolled');
+}
+console.log(course);
+
 course.enroll()
