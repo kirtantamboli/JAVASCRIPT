@@ -1,0 +1,1 @@
+//A promise in JavaScript is like a container for a future value. It is a way of saying, “I don’t have this value right now, but I will have it later.”
