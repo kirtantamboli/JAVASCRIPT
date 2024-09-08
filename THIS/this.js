@@ -17,12 +17,12 @@ function greet1() {
 }
 
 const person1 = {
-    name: 'John',
+    name: 'kirtan',
     sayHello: greet1
 };
 
 const anotherPerson = {
-    name: 'Alice'
+    name: 'tambolli'
 };
 
 greet1(); 
