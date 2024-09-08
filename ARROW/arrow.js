@@ -1,5 +1,5 @@
 const gfg = () => {
-    console.log( "Hi from k" );
+    console.log( "Hi from kirtan" );
 }
 
 gfg();
