@@ -54,4 +54,5 @@ class BOX extends stationary{
     }
 }
 
-let pencil2 = new Product1('chair',499,15,'c10');
+let pencil2 = new stationary('pencil2',49,5,'ppp10');
+let pen3 = new BOX('pen4',49,50,'p90');    
