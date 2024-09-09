@@ -35,3 +35,5 @@ const Product1 = class Product1{
     }; 
 
 let chair = new Product1('chair',499,15,'c10');
+
+//extending class is good to extend classs as it has getter and setter so we use oops in js rather than using functional programming and hence we use class and oops 
