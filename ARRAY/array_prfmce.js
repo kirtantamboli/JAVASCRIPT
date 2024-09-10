@@ -22,3 +22,17 @@ let Animals4 = ["Tiger", "Giraffe", "Horse", "Deer"];
 Animals4.unshift(0);
 console.log(Animals4);
 
+//modified
+Animals4[0] = "y";
+console.log(Animals4);
+
+//indexof
+const names = ['ab','bc','ac','cd','ac','de'];
+// console.log(names.indexOf('ac'));
+console.log(names.indexOf('ac',3));
+
+//lastindexof
+//returns the index of last occurences of a specified value in arr or -1 if its not present
+names.lastIndexOf('ac');
+console.log(names.lastIndexOf('ac'));
+
