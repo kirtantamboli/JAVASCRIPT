@@ -41,6 +41,9 @@ console.log(names.lastIndexOf('ac'));
 
 //includes
 //we can search whether an arr includes a certain elements or not ,returning true or false
+//it works on primitive datatypes and not on object
 names.includes();
 console.log(names.includes('de'));
 
+//find
+// it returns the value of first elements in the provided arr that satisfies the provided testing fn ,if no value satisfies it returns undefined  
