@@ -1,3 +1,5 @@
+//all this fn works in primitive datatypes eg.objects are not included
+
 // push() method
 let Animals = ["Tiger", "Giraffe", "Horse", "Deer"];
 Animals.push("Zebra");
@@ -35,4 +37,10 @@ console.log(names.indexOf('ac',3));
 //returns the index of last occurences of a specified value in arr or -1 if its not present
 names.lastIndexOf('ac');
 console.log(names.lastIndexOf('ac'));
+
+
+//includes
+//we can search whether an arr includes a certain elements or not ,returning true or false
+names.includes();
+console.log(names.includes('de'));
 
