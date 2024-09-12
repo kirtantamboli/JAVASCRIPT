@@ -11,5 +11,11 @@ let num3 = num1.concat(num2)
 console.log(num3.slice(3,5));
 
 //spread operator (...)
- 
+let no1 = ['11','12','13'];
+let no2 = ['14','15','16'];
+let no3 = [...no1,...no2];
+
+//let no3 = [...'11','12','13'],...['4','5','6'];
+console.log(no3);
+
 
