@@ -9,4 +9,5 @@
 // console.log(marks);//it will give error as it is executed out of scope
 
 //local scope
-  
+
+//block scope -- is used for let and const keyword
