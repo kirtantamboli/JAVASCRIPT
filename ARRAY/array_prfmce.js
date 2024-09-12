@@ -1,6 +1,7 @@
 //all this fn works in primitive datatypes eg.objects are not included
 
 // push() method
+//add in last location
 let Animals = ["Tiger", "Giraffe", "Horse", "Deer"];
 Animals.push("Zebra");
 console.log(Animals);
