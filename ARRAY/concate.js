@@ -19,3 +19,22 @@ let no3 = [...no1,...no2];
 console.log(no3);
 
 
+//join method 
+let students =['s','h','i','v','a'];
+console.log(students.join(''));
+//('')this is separater
+
+//split method
+console.log(students.split('_'));
+
+//filter method
+let product =[
+    {name : 'pen',item :'2'},
+    {name : 'pencil',item :'23'},
+    {name : 'box',item :'24'},
+    {name : 'eraser',item :'12'},
+    {name : 'book',item :'3'},
+    {name : 'scale',item :'42'},
+    {name : 'ink',item :'9'}
+]
+console.log(product.filter(prod => prod.item > 10))
