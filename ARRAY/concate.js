@@ -38,3 +38,5 @@ let product =[
     {name : 'ink',item :'9'}
 ]
 console.log(product.filter(prod => prod.item > 10))
+
+console.log(product.map(prod => prod.item*10));
