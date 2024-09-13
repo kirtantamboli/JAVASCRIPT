@@ -1,4 +1,4 @@
-let myOrder, i;
+let myOrder;
 
 // Object is created with name myOrder
 myOrder = {
