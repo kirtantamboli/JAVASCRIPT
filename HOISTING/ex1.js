@@ -6,3 +6,6 @@ sayhello();
         
     }
 var i = 10;
+//let , const are in temporal dead zone -- need to be initialised
+//whereas in var it is not necesssary
+ 
