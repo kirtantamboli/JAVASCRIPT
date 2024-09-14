@@ -15,3 +15,7 @@ if(true){
 }
 console.log(bar);
 
+//illegal shadowing
+
+//const -- read only keyword ,,we cant write
+//in let we can initialse it later
