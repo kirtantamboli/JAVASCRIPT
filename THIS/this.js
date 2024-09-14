@@ -1,3 +1,4 @@
+//this---it refers particular obj
 //using this in a method
 const person = {
     name: 'kirtan',
