@@ -13,4 +13,3 @@ function mainFunction(callback) {
   
   // Call the main function with the callback function
   mainFunction(callbackFunction);
-  
