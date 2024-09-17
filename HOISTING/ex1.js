@@ -9,3 +9,4 @@ var i = 10;
 //let and const are in temporal dead zone -- need to be initialised
 //whereas in var it is not necesssary
  
+
