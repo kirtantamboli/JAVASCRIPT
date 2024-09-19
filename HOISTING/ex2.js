@@ -17,5 +17,5 @@ console.log(bar);
 
 //illegal shadowing
 
-//const -- read only keyword ,,we cant write
+//const -- read only keyword ,,we can not write it
 //in let we can initialse it later
